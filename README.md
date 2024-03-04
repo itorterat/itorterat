@@ -1,6 +1,6 @@
 # 🐙 Hi, I'm Irvin
-💻 I'm currently looking for a job as a Web Developer...<br>
-🚂 I completed the Le Wagon  web developer bootcamp in December 2023...<br>
+💻 I'm currently working for Le Collectionist as a Backend Developer...<br>
+🚂 I completed the Le Wagon web developer bootcamp in December 2023...<br>
 🤖 I've worked as junior Web Developer, QA and SRE...<br>
 🥷 I'm learning and grinding on CodeWars...<br>
 🎥 I'm a huge binge watcher of TV shows and anime...<br>
